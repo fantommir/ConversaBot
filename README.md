@@ -63,25 +63,32 @@ Contributors
 - Harshini Pothina
 - Kalyani Pavani
 
+
+### Photo Website ConversaBot
+
+#### Home Page
+![Screenshot 2024-04-19 000013](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/52adc4bd-3a82-419e-ad90-88e3af05b5f2)
+
+#### Login Page
+![Screenshot 2024-04-19 000039](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/b0c52c2d-5b64-4d31-bcba-2c09cca679c6)
+
+#### Register Page
+![Screenshot 2024-04-19 000101](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/80d1e936-2724-418e-a77c-e232a6b59da5)
+
+#### Main Screen After Login with ChatBot
+![Screenshot 2024-04-19 000128](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/f1fe4678-3a19-4c1e-a051-5c426c8c744f)
+
+#### ChatBot User Chating
+![Screenshot 2024-04-19 000155](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/67dec70d-079c-45c0-ba0d-40309069d531)
+
+#### ChatBot User Chating 
+![Screenshot 2024-04-19 000225](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/50fea845-ecea-491c-9e7d-634951e5af0a)
+
+
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 #### This file contains all the instructions, usage guidelines, contributor information, and license details in a single place. Let me know if you need further modifications!
-
-
-### Photo Website
-
-![Screenshot 2024-04-19 000013](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/52adc4bd-3a82-419e-ad90-88e3af05b5f2)
-
-![Screenshot 2024-04-19 000039](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/b0c52c2d-5b64-4d31-bcba-2c09cca679c6)
-
-![Screenshot 2024-04-19 000101](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/80d1e936-2724-418e-a77c-e232a6b59da5)
-
-![Screenshot 2024-04-19 000128](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/f1fe4678-3a19-4c1e-a051-5c426c8c744f)
-
-![Screenshot 2024-04-19 000155](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/67dec70d-079c-45c0-ba0d-40309069d531)
-
-![Screenshot 2024-04-19 000225](https://github.com/NIHALSAYYAD15/ConversaBot/assets/90887293/50fea845-ecea-491c-9e7d-634951e5af0a)
 
 
