@@ -18,6 +18,23 @@ function Register() {
       return;
     }
 
+    try {
+      const response = await fetch(`http://localhost:8080/accounts/CheckEmail?email=${email}`);
+      if (!response.ok) {
+        throw new Error('Failed to check email existence');
+      }
+      const isEmailExists = await response.json();
+
+      if (isEmailExists) {
+        alert('Email already exists. Please use a different email.');
+        return;
+      }
+    } catch (error) {
+      console.error('Error checking email existence:', error.message);
+      alert('Error checking email existence. Please try again.');
+      return;
+    }
+
     // Create a user object with the form data
     const user = {
       userName: fullName,
