@@ -61,6 +61,17 @@ public class AccountService implements AccountRepository {
     // ************   Get   *************
 
     @Override
+    public boolean isEmailPresent(String email) {
+        try {
+            // Check if any account has the provided email
+            Optional<Account> account = accountJpaRepository.findByMailId(email);
+            return account.isPresent(); // If an account with the email exists, return true
+        } catch (Exception e) {
+            throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Error checking email existence");
+        }
+    }
+
+    @Override
     public Account getAccountById(int accountId) {
         try {
             return accountJpaRepository.findById(accountId).get();
