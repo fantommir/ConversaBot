@@ -35,6 +35,7 @@ Follow these steps to set up and run the ConversaBot project on your local machi
 - Install dependencies using npm:
  ```bash
  npm install
+
 - Start the frontend development server:
  ```bash
  npm start
