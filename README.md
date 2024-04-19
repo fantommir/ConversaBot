@@ -25,4 +25,3 @@ Follow these steps to set up and run the ConversaBot project on your local machi
 - Build the backend Spring Boot application using Maven:
   ```bash
   mvn clean install
-  bash```
