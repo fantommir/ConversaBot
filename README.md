@@ -37,8 +37,8 @@ Follow these steps to set up and run the ConversaBot project on your local machi
    npm install
 
 - Start the frontend development server:
- ```bash
- npm start
+  ```bash
+   npm start
 
 
 ### Usage
@@ -59,7 +59,7 @@ Contributors
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```bash
-This file contains all the instructions, usage guidelines, contributor information, and license details in a single place. Let me know if you need further modifications!
+  This file contains all the instructions, usage guidelines, contributor information, and license details in a single place. Let me know if you need further modifications!
 
 
 
