@@ -10,6 +10,9 @@ public interface AccountRepository {
 
     public int loginAuth(String mailId, String Password);
 
+    boolean isEmailPresent(String email);
+
+
     // Get
 
     Account getAccountById(int accountId);
