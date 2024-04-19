@@ -53,6 +53,14 @@ Follow these steps to set up and run the ConversaBot project on your local machi
 
 Contributors
 - Nihal Sayyad
+- Ajay Pagidimarri
+- Priya Mourya
+- Pratham Sonale
+- Pratik Raut
+- Rushikesh Dhure
+- Saurabh Patil
+- Harshini Pothina
+- Kalyani Pavani
 
 ### License
 
