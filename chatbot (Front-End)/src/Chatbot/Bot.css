@@ -1,0 +1,55 @@
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('Image/test6.jpg');
+  background-size: cover;
+  z-index: -1;
+}
+
+.columns-container {
+  display: flex;
+}
+
+.left-column,
+.right-column {
+  width: 50%;
+}
+
+.left-column {
+  float: left;
+  /* Float left to make it appear on the left side */
+}
+
+.right-column {
+  float: right;
+  /* Float right to make it appear on the right side */
+}
+
+.left-column {
+  width: 650px;
+  height: 600px;
+  background-image: url('Image/test1.jpg');
+  background-size: cover;
+  /* Cover the entire background */
+  background-position: center;
+  /* Center the background image */
+  margin: 51px 5px 30px 40px;
+  border-radius: 25px;
+
+}
+
+.right-column {
+  width: 420px;
+  height: 250px;
+  background-image: url('Image/test3.jpg');
+  background-size: cover;
+  /* Cover the entire background */
+  background-position: center;
+  /* Center the background image */
+  margin: 51px 0px 50px 200px;
+  border-radius: 20px;
+
+}
