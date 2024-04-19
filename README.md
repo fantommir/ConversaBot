@@ -53,7 +53,7 @@ Follow these steps to set up and run the ConversaBot project on your local machi
    - Please enter PIN... : 1111
 
 Contributors
-- Nihal Sayyad @NIHALSAYYAD15
+- Nihal Sayyad 
 - Ajay Pagidimarri
 - Priya Mourya
 - Pratham Sonale
