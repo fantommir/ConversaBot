@@ -32,6 +32,11 @@ public class AccountController {
 
     // ************ Get *************
 
+    @GetMapping("/accounts/CheckEmail")
+    public boolean checkEmailExists(@RequestParam String email) {
+        return accountService.isEmailPresent(email);
+    }
+
     @GetMapping("/accounts/{accountId}")
     public Account getAccountById(@PathVariable("accountId") int accountId) {
         return accountService.getAccountById(accountId);
