@@ -9,7 +9,7 @@ Follow these steps to set up and run the ConversaBot project on your local machi
 ### Prerequisites
 
 - MySQL database
-- Node.js
+- React.js
 - Spring Boot
 - Java Development Kit (JDK)
 - Maven
