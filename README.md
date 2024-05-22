@@ -1,3 +1,4 @@
+# 정상 실행 가능 - MySQL 설정만 주의할 것
 # ConversaBot
 
 ConversaBot is a full-stack project built with React and Spring Boot. It provides a chat interface where users can interact with a conversational bot. The frontend, developed with React, offers a user-friendly interface, while the backend, powered by Spring Boot, handles user authentication, chat message processing, and data storage.
